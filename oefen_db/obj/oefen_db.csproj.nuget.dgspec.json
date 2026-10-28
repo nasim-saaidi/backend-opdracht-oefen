@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gebruiker\\coderen\\oefen_database\\oefen_db\\oefen_db.csproj": {}
+    "C:\\Users\\Gebruiker\\coderen\\backend-opdracht-oefen\\oefen_db\\oefen_db.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gebruiker\\coderen\\oefen_database\\oefen_db\\oefen_db.csproj": {
+    "C:\\Users\\Gebruiker\\coderen\\backend-opdracht-oefen\\oefen_db\\oefen_db.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gebruiker\\coderen\\oefen_database\\oefen_db\\oefen_db.csproj",
+        "projectUniqueName": "C:\\Users\\Gebruiker\\coderen\\backend-opdracht-oefen\\oefen_db\\oefen_db.csproj",
         "projectName": "oefen_db",
-        "projectPath": "C:\\Users\\Gebruiker\\coderen\\oefen_database\\oefen_db\\oefen_db.csproj",
+        "projectPath": "C:\\Users\\Gebruiker\\coderen\\backend-opdracht-oefen\\oefen_db\\oefen_db.csproj",
         "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gebruiker\\coderen\\oefen_database\\oefen_db\\obj\\",
+        "outputPath": "C:\\Users\\Gebruiker\\coderen\\backend-opdracht-oefen\\oefen_db\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gebruiker\\AppData\\Roaming\\NuGet\\NuGet.Config"
