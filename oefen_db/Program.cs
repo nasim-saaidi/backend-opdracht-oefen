@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
-using project.db;
+using main.db;
+using functions.Endpoint;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,7 +18,7 @@ builder.Services.AddDbContext<OefenDB>(
 
 var app = builder.Build();
 
-
+app.MapAllProjectsEndpoints();
 
 
 // Configure the HTTP request pipeline.

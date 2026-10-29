@@ -3,7 +3,7 @@ using Models.project;
 
 
 
-namespace project.db;
+namespace main.db;
 public sealed class OefenDB : DbContext
 {
          public OefenDB(DbContextOptions<OefenDB> options) : base(options) {}
