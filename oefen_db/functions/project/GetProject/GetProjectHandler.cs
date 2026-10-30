@@ -10,7 +10,7 @@ public static class GetProjectHandler
     {
         var project = await dbContext.Projects
         .Where(project => project.Id == id)
-        .Select(project => new GetProjectResponse(project.Id, project.Repo_link, project.Title, project.Img_alt, project.Img_src, project.Description))
+        .Select(project => new GetProjectResponse(project.Id, project.Title, project.Description, project.Category, project.Date, project.Repo_link,  project.Img_alt, project.Img_src))
         .AsNoTracking()
         .FirstOrDefaultAsync(cancellationToken);
 

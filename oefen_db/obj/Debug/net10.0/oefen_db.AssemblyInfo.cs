@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("oefen_db")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6585264101f11812d0117f5121d69a5edbcdae8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6748a4a82035cae00c6b7842a8e75afe3018eec3")]
 [assembly: System.Reflection.AssemblyProductAttribute("oefen_db")]
 [assembly: System.Reflection.AssemblyTitleAttribute("oefen_db")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

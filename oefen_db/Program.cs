@@ -18,7 +18,7 @@ builder.Services.AddDbContext<OefenDB>(
 
 var app = builder.Build();
 
-app.MapAllProjectsEndpoints();
+app.MapAllEndpoints();
 
 
 // Configure the HTTP request pipeline.
